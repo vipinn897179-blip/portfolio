@@ -11,7 +11,7 @@ Personal AI & Software Engineering portfolio website showcasing my featured proj
 1. **[City Plus](https://github.com/vipinn897179-blip/cityplus)** — AI Mobile Urban Intelligence Platform (SIH 2026).
 2. **[Network ](https://github.com/vipinn897179-blip/network)** — Production ML phishing detection pipeline with MLflow tracking.
 3. **[Quiz](https://github.com/vipinn897179-blip/Quiz)** — Interactive Code With AI Quiz application.
-4. **[Code Correction](https://github.com/vipinn897179-blip/Code_correction)** — Python student utility suite and RED -> FIX -> GREEN debugging cycle.
+4. **[Code Correction](https://github.com/vipinn897179-blip/Code-correction)** — Python student utility suite and RED -> FIX -> GREEN debugging cycle.
 5. **[Factorial Calculator](https://github.com/vipinn897179-blip/Factorial-code)** — Clean Python mathematical implementation and fact-check audit.
 
 ---

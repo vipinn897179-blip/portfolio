@@ -1,18 +1,18 @@
-# Abhinav — Portfolio
+# Vipin — Portfolio
 
 Personal AI & Software Engineering portfolio website showcasing my featured projects, machine learning engineering pipelines, technical stack, and interactive AI assistant.
 
-**Live GitHub Profile:** [https://github.com/abhinavnnl29-design](https://github.com/abhinavnnl29-design)
+**Live GitHub Profile:** [https://github.com/vipinn897179-blip](https://github.com/vipinn897179-blip)
 
 ---
 
 ## 🚀 Featured Repositories
 
-1. **[City Plus](https://github.com/abhinavnnl29-design/cityplus)** — AI Mobile Urban Intelligence Platform (SIH 2026).
-2. **[Network ](https://github.com/abhinavnnl29-design/network)** — Production ML phishing detection pipeline with MLflow tracking.
-3. **[Quiz](https://github.com/abhinavnnl29-design/Quiz)** — Interactive Code With AI Quiz application.
-4. **[Code Correction](https://github.com/abhinavnnl29-design/Code_correction)** — Python student utility suite and RED -> FIX -> GREEN debugging cycle.
-5. **[Factorial Calculator](https://github.com/abhinavnnl29-design/Factorial-code)** — Clean Python mathematical implementation and fact-check audit.
+1. **[City Plus](https://github.com/vipinn897179-blip/cityplus)** — AI Mobile Urban Intelligence Platform (SIH 2026).
+2. **[Network ](https://github.com/vipinn897179-blip/network)** — Production ML phishing detection pipeline with MLflow tracking.
+3. **[Quiz](https://github.com/vipinn897179-blip/Quiz)** — Interactive Code With AI Quiz application.
+4. **[Code Correction](https://github.com/vipinn897179-blip/Code_correction)** — Python student utility suite and RED -> FIX -> GREEN debugging cycle.
+5. **[Factorial Calculator](https://github.com/vipinn897179-blip/Factorial-code)** — Clean Python mathematical implementation and fact-check audit.
 
 ---
 
